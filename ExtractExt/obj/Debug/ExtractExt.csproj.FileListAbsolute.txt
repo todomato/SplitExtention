@@ -1,0 +1,7 @@
+C:\Users\andy.chen\source\repos\ExtractExt\ExtractExt\bin\Debug\ExtractExt.exe.config
+C:\Users\andy.chen\source\repos\ExtractExt\ExtractExt\bin\Debug\ExtractExt.exe
+C:\Users\andy.chen\source\repos\ExtractExt\ExtractExt\bin\Debug\ExtractExt.pdb
+C:\Users\andy.chen\source\repos\ExtractExt\ExtractExt\obj\Debug\ExtractExt.csprojAssemblyReference.cache
+C:\Users\andy.chen\source\repos\ExtractExt\ExtractExt\obj\Debug\ExtractExt.csproj.CoreCompileInputs.cache
+C:\Users\andy.chen\source\repos\ExtractExt\ExtractExt\obj\Debug\ExtractExt.exe
+C:\Users\andy.chen\source\repos\ExtractExt\ExtractExt\obj\Debug\ExtractExt.pdb
